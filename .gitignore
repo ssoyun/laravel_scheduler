@@ -8,6 +8,7 @@
 /.vscode
 /.vagrant
 /tests
+/config
 Homestead.json
 Homestead.yaml
 npm-debug.log
